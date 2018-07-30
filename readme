@@ -1,0 +1,8 @@
+This is a simple Sign Up - Sign In app in PHP.
+To make use of this code
+	1. Rename connection.php.save to connection.php
+	2. Change the username, password and Database name
+	3. Run createtable.php file to create table, you can add columns as required.
+	4. That's all you can create account, sign in, sign out.
+
+This code is licensed as 'TCIY License'
